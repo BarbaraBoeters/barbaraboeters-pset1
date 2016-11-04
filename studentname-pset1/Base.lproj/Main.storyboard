@@ -26,13 +26,13 @@
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="51"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mr. Potatohead" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wq6-NV-AXB">
-                                        <rect key="frame" x="86" y="11" width="148" height="29"/>
+                                        <rect key="frame" x="35" y="11" width="148" height="29"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="21"/>
-                                        <nil key="textColor"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" red="1" green="0.14933789410000001" blue="0.051111466260000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.0033645038638260199" green="0.56906559985387239" blue="0.88423647318479315" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstItem="Wq6-NV-AXB" firstAttribute="centerY" secondItem="3yb-L1-cCz" secondAttribute="centerY" id="8Jc-pR-EYA"/>
                                     <constraint firstAttribute="height" constant="51" id="9kX-IH-ZXb"/>
